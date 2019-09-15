@@ -1,0 +1,32 @@
+[
+    {
+        "pid": "1",
+        "gr_num": "1001",
+        "firstName": "Ali",
+        "middleName": "Arif",
+        "surName": "Hashmi",
+        "gender": "male",
+        "dob": "1995-06-17",
+        "doa": "1995-06-17",
+        "parents": "M Arif Hashmi",
+        "cnic": "42201123456789",
+        "pc": "03312636592",
+        "sc": "03232961916",
+        "occupation": "tracer"
+    },
+    {
+        "pid": "2",
+        "gr_num": "1001",
+        "firstName": "Ali",
+        "middleName": "Arif",
+        "surName": "Hashmi",
+        "gender": "male",
+        "dob": "1995-06-17",
+        "doa": "1995-06-17",
+        "parents": "M Arif Hashmi",
+        "cnic": "42201123456789",
+        "pc": "03312636592",
+        "sc": "03232961916",
+        "occupation": "tracer"
+    }
+]

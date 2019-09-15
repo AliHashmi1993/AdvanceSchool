@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "event": "Result Day",
+        "date": "02-06-2019",
+        "timings": "8 to 1",
+        "marked": "Confirmed"
+    },
+    {
+        "id": 2,
+        "event": "Party Day",
+        "date": "10-9-2019",
+        "timings": "8 to 11",
+        "marked": "Tentative"
+    },
+    {
+        "id": 3,
+        "event": "Sports Day",
+        "date": "02-08-2019",
+        "timings": "8 to 10",
+        "marked": "Confirmed"
+    },
+    {
+        "id": 4,
+        "event": "Examination",
+        "date": "12-10-2019",
+        "timings": "9 to 12",
+        "marked": "Tentative"
+    }
+]
